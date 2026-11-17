@@ -1,0 +1,16 @@
+HashCrack Report
+================
+Date: 2026-11-14 13:43:58
+Wordlist: wordlist.txt
+Rules: ON
+Total time: 0.00 seconds
+
+CRACKED (5):
+5d41402abc4b2a76b9719d911017c592 = hello
+a9c43be948c5cabd56ef2bacffb77cdaa5eec49dd5eb0cc4129cf3eda5f0e74c = dragon
+xyz:b612b38430c9c3576403a8826efb3448 = dragon
+0a76ac0b32c1f99c6a1aca630b01ed81 = Dragon123
+4235227b51436ad86d07c7cf5d69bda2644984de = python
+
+NOT CRACKED (1):
+69c459dd76c6198f72f0c20ddd3c9447
